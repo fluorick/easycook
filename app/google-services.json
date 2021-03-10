@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772078409677",
+    "firebase_url": "https://easycook-d71be.firebaseio.com",
+    "project_id": "easycook-d71be",
+    "storage_bucket": "easycook-d71be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772078409677:android:e5692b3ece9ad19fbd1684",
+        "android_client_info": {
+          "package_name": "com.example.dmitry.easycook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772078409677-eabam2sf4jigvc1v00nnee8gqrld3pnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYlluwnG1RVmJMKwJt85sKKy2g6Qp9IDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772078409677-eabam2sf4jigvc1v00nnee8gqrld3pnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
